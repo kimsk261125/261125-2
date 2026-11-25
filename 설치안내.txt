@@ -1,0 +1,8 @@
+상근이의 스마트 가계부 설치 안내
+1. GitHub에서 새 공개 저장소(sanggeun-budget-app 등)를 만듭니다. 기존 차계부 저장소와 분리하세요.
+2. 이 폴더의 index.html, sw.js, manifest.webmanifest, icon.png, icon-512.png를 저장소 최상위에 올립니다. 개인정보 JSON은 절대 GitHub에 올리지 마세요.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. 배포 주소 https://사용자명.github.io/저장소명/ 을 Safari로 열고 공유 > 홈 화면에 추가.
+5. 아이폰에서 앱 실행 > 설정 > JSON 파일 선택으로 별도로 제공된 개인정보 가져오기 파일을 불러옵니다.
+6. 정기적으로 JSON 백업을 저장하세요. Safari 데이터 삭제/앱 삭제 시 로컬 데이터가 사라질 수 있습니다.
+참고: 기존 엑셀의 월별 과거 잔액 기록 전체는 이 앱에 포함되지 않으며, 최신 계좌 잔액과 거래내역, 부채만 가져옵니다.
