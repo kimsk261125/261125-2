@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "year": 2026,
+  "transactions": [
+    {
+      "id": "x6",
+      "date": "2026-11-25",
+      "type": "지출",
+      "category": "식비",
+      "description": "도시락,테리아그린",
+      "amount": 59400,
+      "payment": "애플페이",
+      "account": "KB국민 / KB종합통장",
+      "memo": "cu서산 석림",
+      "appliedAccountId": "a6"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "a6",
+      "name": "KB국민 / KB종합통장",
+      "bank": "KB국민",
+      "category": "저축",
+      "balance": 18302975,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a7",
+      "name": "KB국민 / My저금통",
+      "bank": "KB국민",
+      "category": "저축",
+      "balance": 2671166.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a8",
+      "name": "KB국민 / 개인연금IRP",
+      "bank": "KB국민",
+      "category": "투자",
+      "balance": 23700000.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a9",
+      "name": "하나은행 / 월급통장",
+      "bank": "하나은행",
+      "category": "보험",
+      "balance": 31853827.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a10",
+      "name": "하나은행 / 정기예금1",
+      "bank": "하나은행",
+      "category": "저축",
+      "balance": 100000000.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a11",
+      "name": "하나은행 / 정기예금2",
+      "bank": "하나은행",
+      "category": "적금",
+      "balance": 40000000.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a12",
+      "name": "하나은행 / 퇴직연금IRP",
+      "bank": "하나은행",
+      "category": "적금",
+      "balance": 44600000.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a13",
+      "name": "하나은행 / 연금저축보험",
+      "bank": "하나은행",
+      "category": "연금",
+      "balance": 43430000.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a14",
+      "name": "경남은행 / 관리비자동이체",
+      "bank": "경남은행",
+      "category": "저축",
+      "balance": 1416979.0,
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "a15",
+      "name": "sc제일은행 / (구)애플페이",
+      "bank": "sc제일은행",
+      "category": "저축",
+      "balance": 76344.0,
+      "updated": "2026-11-25"
+    }
+  ],
+  "assets": [
+    {
+      "id": "s21",
+      "name": "대출",
+      "type": "부채",
+      "value": 0.0
+    },
+    {
+      "id": "s22",
+      "name": "카드 미결제금",
+      "type": "부채",
+      "value": 0.0
+    },
+    {
+      "id": "s23",
+      "name": "기타 부채",
+      "type": "부채",
+      "value": 0.0
+    },
+    {
+      "id": "s24",
+      "name": "추가 부채",
+      "type": "부채",
+      "value": 0.0
+    }
+  ],
+  "budgets": {}
+}
